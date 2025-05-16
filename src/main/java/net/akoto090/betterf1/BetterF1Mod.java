@@ -18,7 +18,7 @@ public class BetterF1Mod {
         @SubscribeEvent
         public static void onRegisterKeyMappings(RegisterKeyMappingsEvent event) {
             toggleHudKey = new KeyMapping(
-                    "key.betterf1.toggle_hud", // Translation key (add to en_us.json for nice name)
+                    "key.betterf1.toggle_hud",
                     org.lwjgl.glfw.GLFW.GLFW_KEY_F1,
                     "key.categories.misc"
             );
@@ -27,7 +27,6 @@ public class BetterF1Mod {
 
         @SubscribeEvent
         public static void onClientSetup(FMLClientSetupEvent event) {
-            // No-op, required for mod event bus.
         }
     }
 }
