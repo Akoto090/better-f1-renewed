@@ -1,4 +1,4 @@
-# License
+# MIT
 
 Copyright © 2025 NothingSeries
 
