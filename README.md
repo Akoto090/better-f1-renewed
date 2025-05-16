@@ -15,6 +15,7 @@ The Better F1 Mod is a simple but powerful tweak for that gives you full control
 This mod is inspired from [Better F1](https://www.curseforge.com/minecraft/mc-mods/better-f1) by [UltimateBoomer](https://www.curseforge.com/members/ultimateboomer/projects).
 
 If you search for a fabric version use [THIS](https://www.curseforge.com/minecraft/mc-mods/better-f1-reborn) one.
+Thanks for [Sooki](https://github.com/sooki1), helping with the Player Model
 
 ## License
 
