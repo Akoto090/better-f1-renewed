@@ -1,12 +1,14 @@
 {
   "required": true,
-  "minVersion": "0.8",
+  "minVersion": "0.8.5",
   "package": "net.akoto090.betterf1.mixin",
   "compatibilityLevel": "JAVA_17",
-  "mixins": [],
+  "mixins": [
+    "KeyboardHandlerMixin"
+  ],
   "client": [
-    "KeyboardMixin",
-    "GameRendererMixin"
+  ],
+  "server": [
   ],
   "injectors": {
     "defaultRequire": 1
