@@ -1,29 +1,23 @@
+# Better F1 Renewed
 
-Installation information
-=======
+## About
 
-This template repository can be directly cloned to get you started with a new
-mod. Simply create a new repository cloned from this one, by following the
-instructions provided by [GitHub](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template).
+The Better F1 Mod is a simple but powerful tweak for that gives you full control over the F1 key functionality. Perfect for immersive screenshots or recordings where you want to keep your character’s hand visible but hide the rest of the HUD.
 
-Once you have your clone, simply open the repository in the IDE of your choice. The usual recommendation for an IDE is either IntelliJ IDEA or Eclipse.
+## Features
 
-If at any point you are missing libraries in your IDE, or you've run into problems you can
-run `gradlew --refresh-dependencies` to refresh the local cache. `gradlew clean` to reset everything 
-{this does not affect your code} and then start the process again.
+*   Custom F1 Keybind which can be assigned to a new key to toggle screen UI.
+*   Disables Vanilla F1 Behavior prevents the default F1 key from interfering with your custom setup.
+*   F1 Mode: Show Hand but Hide HUD.
 
-Mapping Names:
-============
-The MDK is configured to use the official mapping names from Mojang for methods and fields 
-in the Minecraft codebase. These names are covered by a specific license. All modders should be aware of this
-license. For the latest license text, refer to the mapping file itself, or the reference copy here:
-https://github.com/NeoForged/NeoForm/blob/main/Mojang.md
+## Credits
 
-MDG Legacy:
-==========
-This template uses [ModDevGradle Legacy](https://github.com/neoforged/ModDevGradle). Documentation can be found [here](https://github.com/neoforged/ModDevGradle/blob/main/LEGACY.md).
+This mod is inspired from [Better F1](https://www.curseforge.com/minecraft/mc-mods/better-f1) by [UltimateBoomer](https://www.curseforge.com/members/ultimateboomer/projects).
 
-Additional Resources: 
-==========
-Community Documentation: https://docs.neoforged.net/  
-NeoForged Discord: https://discord.neoforged.net/
+If you search for a fabric version use [THIS](https://www.curseforge.com/minecraft/mc-mods/better-f1-reborn) one.
+
+Thanks for [Sooki](https://github.com/sooki1), helping with the Player Model!
+
+## License
+
+This mod is licensed under [MIT](https://mit-license.org/), like the other both Better F1 mods.
