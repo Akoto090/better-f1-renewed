@@ -6,10 +6,9 @@
   "mixins": [
     "KeyboardHandlerMixin"
   ],
-  "client": [
-  ],
-  "server": [
-  ],
+  "refmap": "betterf1.refmap.json",
+  "client": [],
+  "server": [],
   "injectors": {
     "defaultRequire": 1
   }
