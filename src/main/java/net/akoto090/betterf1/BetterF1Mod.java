@@ -20,6 +20,12 @@ public class BetterF1Mod {
 
     private static final Logger LOGGER = LogUtils.getLogger();
 
+    public static HudState state = HudState.ALL_VISIBLE;
+
+    public static boolean isHidden(boolean hudHidden) {
+        return hudHidden && !state.equals(HudState.NO_HUD);
+    }
+
     public BetterF1Mod() {
         IEventBus modEventBus = FMLJavaModLoadingContext.get().getModEventBus();
 
