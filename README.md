@@ -17,6 +17,7 @@ This mod is inspired from [Better F1](https://www.curseforge.com/minecraft/mc-mo
 If you search for a fabric version use [THIS](https://www.curseforge.com/minecraft/mc-mods/better-f1-reborn) one.
 
 Thanks for [Sooki](https://github.com/sooki1), helping with the Player Model!
+Thanks [spunchbop121](https://github.com/spunchbop121) for the language file ;D
 
 ## License
 
