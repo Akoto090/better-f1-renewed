@@ -1,14 +1,16 @@
 # Better F1 Renewed
 
-## About
+> ⚠️ **Warning**  
+> This repository has moved to [Gitea](https://gitea.com/Akoto090/better-f1-renewed).  
+> Issues remain here, but code and releases are only on Gitea.
 
 The Better F1 Mod is a simple but powerful tweak for that gives you full control over the F1 key functionality. Perfect for immersive screenshots or recordings where you want to keep your character’s hand visible but hide the rest of the HUD.
 
 ## Features
 
-*   Custom F1 Keybind which can be assigned to a new key to toggle screen UI.
-*   Disables Vanilla F1 Behavior prevents the default F1 key from interfering with your custom setup.
-*   F1 Mode: Show Hand but Hide HUD.
+- Custom F1 Keybind which can be assigned to a new key to toggle screen UI.
+- Disables Vanilla F1 Behavior prevents the default F1 key from interfering with your custom setup.
+- F1 Mode: Show Hand but Hide HUD.
 
 ## Credits
 
