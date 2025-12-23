@@ -4,6 +4,12 @@
 > This repository has moved to [git.akoto.dev](https://git.akoto.dev/akoto090/better-f1-renewed).  
 > Issues remain here, but code and releases are only on my git instance.
 
+<p align="left">
+<a href="https://www.curseforge.com/minecraft/mc-mods/better-f1-renewed">
+<img alt="curseforge" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/curseforge_vector.svg">
+</a>
+</p>
+
 The Better F1 Mod is a simple but powerful tweak for that gives you full control over the F1 key functionality. Perfect for immersive screenshots or recordings where you want to keep your character’s hand visible but hide the rest of the HUD.
 
 ## Features
