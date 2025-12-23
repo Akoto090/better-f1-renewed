@@ -1,1 +1,1 @@
-🚚 Moved to Gitea → https://gitea.com/Akoto090/better-f1-renewed
+🚚 Moved to another instance → https://git.akoto.dev/akoto090/better-f1-renewed
